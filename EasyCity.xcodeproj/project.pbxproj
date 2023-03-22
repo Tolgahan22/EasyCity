@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4149096A29CB9E6A0016EA1D /* EqView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4149096929CB9E6A0016EA1D /* EqView.swift */; };
+		4149096E29CBA2EE0016EA1D /* EqTableCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4149096D29CBA2EE0016EA1D /* EqTableCell.swift */; };
 		4193702629C8E98200AF51E3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4193702529C8E98200AF51E3 /* AppDelegate.swift */; };
 		4193702829C8E98200AF51E3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4193702729C8E98200AF51E3 /* SceneDelegate.swift */; };
 		4193702A29C8E98200AF51E3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4193702929C8E98200AF51E3 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4149096929CB9E6A0016EA1D /* EqView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqView.swift; sourceTree = "<group>"; };
+		4149096D29CBA2EE0016EA1D /* EqTableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EqTableCell.swift; sourceTree = "<group>"; };
 		4193702229C8E98200AF51E3 /* EasyCity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EasyCity.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4193702529C8E98200AF51E3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4193702729C8E98200AF51E3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,7 +63,9 @@
 				4193702529C8E98200AF51E3 /* AppDelegate.swift */,
 				4193702729C8E98200AF51E3 /* SceneDelegate.swift */,
 				4193702929C8E98200AF51E3 /* ViewController.swift */,
+				4149096929CB9E6A0016EA1D /* EqView.swift */,
 				4193702B29C8E98200AF51E3 /* Main.storyboard */,
+				4149096D29CBA2EE0016EA1D /* EqTableCell.swift */,
 				4193702E29C8E98300AF51E3 /* Assets.xcassets */,
 				4193703029C8E98300AF51E3 /* LaunchScreen.storyboard */,
 				4193703329C8E98300AF51E3 /* Info.plist */,
@@ -138,7 +144,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4149096A29CB9E6A0016EA1D /* EqView.swift in Sources */,
 				4193702A29C8E98200AF51E3 /* ViewController.swift in Sources */,
+				4149096E29CBA2EE0016EA1D /* EqTableCell.swift in Sources */,
 				4193702629C8E98200AF51E3 /* AppDelegate.swift in Sources */,
 				4193702829C8E98200AF51E3 /* SceneDelegate.swift in Sources */,
 			);
